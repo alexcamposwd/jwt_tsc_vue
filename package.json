@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "npm run start",
+    "start": "npm run lint-fix && npm run serve",
     "serve": "vue-cli-service serve",
     "server": "npm run dev --prefix server",
     "build": "vue-cli-service build",
