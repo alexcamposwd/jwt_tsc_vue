@@ -6,7 +6,8 @@
     "start": "npm start --prefix server && npm run serve",
     "serve": "vue-cli-service serve",
     "server": "npm run dev --prefix server",
-    "build": "npm run postinstall --prefix server && vue-cli-service build",
+    "build": "vue-cli-service build",
+    "postinstall": "npm run build",
     "lint": "vue-cli-service lint",
     "lint-fix": "npm run lint --fix"
   },
