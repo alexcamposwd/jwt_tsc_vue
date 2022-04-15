@@ -21,7 +21,7 @@ O estudo é baseado na execução de um Formulário de login e cadastro de usuá
 - Utilização do Json Web Token e Bcrypt.
 - Deploy Netlify.
 
-- [Demo](https://jwt-tsc-vue.netlify.app/)
+[Demo](https://jwt-tsc-vue.netlify.app/)
 
 ### License/Licença do Projeto
 [MIT License](./LICENSE) © ![alexcamposwd](https://img.shields.io/badge/-alexcamposwd-blue?&style=flat)
