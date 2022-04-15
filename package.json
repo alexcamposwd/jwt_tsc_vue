@@ -7,7 +7,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "start": "npm start --prefix server && node server.js",
-    "server": "npm run dev --prefix server",
+    "server": "npm run start --prefix server",
     "lint-fix": "npm run lint --fix"
   },
   "dependencies": {
